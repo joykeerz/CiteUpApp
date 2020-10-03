@@ -1,3 +1,12 @@
+
+# CiteUpApp
+## Tentang Web ini
+Web app ini dibuat untuk kebutuhan acara citeup 2019 yang diadakan di universitas pertamina.
+web app ini memiliki fitur registrasi multi authentikasi, fitur ketua kelompok dan anggota kelompok,
+fitur pembayaran dan validasi pembayaran. serta auto generate kode untuk masing2 pengguna.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
@@ -70,10 +79,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Tentang Web ini
-Web app ini dibuat untuk kebutuhan acara citeup 2019 yang diadakan di universitas pertamina.
-web app ini memiliki fitur registrasi multi authentikasi, fitur ketua kelompok dan anggota kelompok,
-fitur pembayaran dan validasi pembayaran. serta auto generate kode untuk masing2 pengguna.
-
-# CiteUpApp
