@@ -1,6 +1,7 @@
 
 # CiteUpApp
 ## Tentang Web ini
+<p align="center"><img src="https://joykeerz.github.io/images/citeup.PNG"></p>
 Web app ini dibuat untuk kebutuhan acara citeup 2019 yang diadakan di universitas pertamina.
 web app ini memiliki fitur registrasi multi authentikasi, fitur ketua kelompok dan anggota kelompok,
 fitur pembayaran dan validasi pembayaran. serta auto generate kode untuk masing2 pengguna.
